@@ -1,5 +1,3 @@
-# ismsk9.org
-Service Request Ticket system
 import { useState } from 'react'
 import { Button } from "/components/ui/button"
 import { Card, CardContent, CardHeader, CardTitle } from "/components/ui/card"
